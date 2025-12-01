@@ -10,4 +10,4 @@ TASK2: Demonstrate List Slicing
         -Created a list of 1 to 10 numbers.
         -Extracting first five elements from the created list.
         -Reversing the Extracted list.
-        -Printing the lists.
+        -Printing the both lists.
